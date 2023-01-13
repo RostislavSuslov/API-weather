@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 28.46,
+        "lat": 49.23
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 273.45,
+        "feels_like": 270.18,
+        "temp_min": 273.45,
+        "temp_max": 273.45,
+        "pressure": 1022,
+        "humidity": 96,
+        "sea_level": 1022,
+        "grnd_level": 988
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.81,
+        "deg": 167,
+        "gust": 6.2
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1673615661,
+    "sys": {
+        "country": "UA",
+        "sunrise": 1673589439,
+        "sunset": 1673620294
+    },
+    "timezone": 7200,
+    "id": 689558,
+    "name": "Vinnytsia",
+    "cod": 200
+}
